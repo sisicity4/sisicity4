@@ -1,7 +1,7 @@
 <h1 align="left">宍戸大河 | Taiga Shishido</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&width=760&lines=Web+%2F+iOS+%2F+Coding;TypeScript+%C3%97+Swift+%C3%97+Python;Interactive+Apps+%C3%97+Games+%C3%97+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&width=820&lines=Web+%2F+iOS+%2F+Coding;Field+Problems+to+Usable+Systems;TypeScript+%C3%97+Swift+%C3%97+Python" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -18,27 +18,27 @@
 
 ## About Me
 
-KADOKAWAドワンゴ情報工科学院 東京校で学んでいる、28卒のエンジニア志望です。<br>
+KADOKAWAドワンゴ情報工科学院 IT総合コースで学んでいる、28卒のエンジニア志望です。<br>
 神奈川を拠点に、**Web アプリ**、**iOS アプリ**、**ブラウザゲーム**を中心に制作しています。
 
-TypeScript / Swift / Python を使いながら、ただ動くものではなく、触っていて分かりやすい体験まで含めて作ることを意識しています。
+コンビニエンスストアで約5年間働いた経験から、現場の流れ、段取り、顧客対応、業務効率に関心があります。TypeScript / Swift / Python を使いながら、ただ動くものではなく、使う人や現場の課題に合う仕組みとして作ることを意識しています。
 
 - Web: React / Vite / TypeScript を中心に、地図・ゲーム・インタラクションを扱うアプリを制作
 - iOS: SwiftUI / PhotoKit / Vision などを使ったローカル処理中心のアプリを開発
 - Backend: FastAPI / Python を使った API 実装と外部サービス連携を経験
-- Current: 作品ごとに README、docs、テスト、デプロイ手順を整えながら改善中
+- Work style: 目的、ユーザー、判断理由、役割分担を言語化しながら制作することを重視
 
 ## Current Focus
 
-- TypeScript と Vite を使ったブラウザ体験の実装
-- SwiftUI での iPhone アプリ開発
+- 現場課題を整理し、使いやすい Web / iOS アプリへ落とし込むこと
+- React / Vite / TypeScript を使ったブラウザ体験の実装
+- SwiftUI / PhotoKit / Vision を使った iPhone アプリ開発
 - FastAPI / Python を含むフロントエンド・バックエンド分離構成
-- ゲーム、地図、音楽、写真整理など、体験が伝わるプロダクト制作
-- PDCA を回しながら、README・docs・テスト・デプロイまで含めた完成度を上げること
+- README、docs、テスト、デプロイ手順まで含めた制作物の改善
 
 ## Tech Stack
 
-### Main
+### Verified in Public Repositories
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -64,6 +64,27 @@ TypeScript / Swift / Python を使いながら、ただ動くものではなく�
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
 </p>
+
+## Skill Evidence
+
+| Skill | GitHubで確認した根拠 |
+| --- | --- |
+| TypeScript / Vite | `ant-line-simulator`, `Lofi-race`, `PARry-PANIC`, `Walk-After-the-Last-Train` |
+| React / Leaflet | `Tour-Rail` の `frontend/package.json` |
+| FastAPI / Python | `Tour-Rail` の `backend/requirements.txt` |
+| Swift / SwiftUI | `Jacke-ru`, `ERAbu` の Swift 実装 |
+| PhotoKit / Vision / SwiftData | `ERAbu` の写真整理・類似判定・ローカル保存実装 |
+| Three.js | `Lofi-race` の `package.json` |
+| Phaser / Web Audio | `PARry-PANIC`, `Walk-After-the-Last-Train` |
+| Streamlit | `Bingo-Party` の `app.py` |
+| Playwright / Vitest | `Lofi-race`, `Walk-After-the-Last-Train` のテスト設定 |
+
+## Values / Work Style
+
+- 現場で起きている課題を見て、仕組みに落とし込むことを大切にしています。
+- デザインや実装は感覚だけで決めず、目的、ターゲット、優先順位、修正理由を説明できる状態を目指します。
+- チーム開発では、安心して相談できる雰囲気、報連相、得意不得意に合わせた役割分担を重視します。
+- 興味の幅は広いですが、制作物では「何を解決するか」「誰が使うか」を先に置くようにしています。
 
 ## Featured Projects
 
