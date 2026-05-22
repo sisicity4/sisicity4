@@ -15,21 +15,21 @@
 
 ## About Me
 
-KADOKAWAドワンゴ情報工科学院 IT総合コースで学んでいる、28卒のエンジニア志望です。<br>
+KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んでいる、28卒のエンジニア志望です。<br>
 神奈川を拠点に、**Web アプリ**、**iOS アプリ**、**ブラウザゲーム**を中心に制作しています。
 
 コンビニエンスストアで約5年間働いた経験から、現場の流れ、段取り、顧客対応、業務効率に関心があります。TypeScript / Swift / Python を使いながら、ただ動くものではなく、使う人や現場の課題に合う仕組みとして作ることを意識しています。
 
-- Web: React / TypeScript を中心に、地図・ゲーム・インタラクションを扱うアプリを制作
+- Web: React / Vite / TypeScript を中心に、地図・ゲーム・インタラクションを扱うアプリを制作
 - iOS: SwiftUI / PhotoKit / Vision などを使ったローカル処理中心のアプリを開発
 - Backend: FastAPI / Python を使った API 実装と外部サービス連携を経験
 - Work style: 目的、ユーザー、判断理由、役割分担を言語化しながら制作することを重視
 
 ## Current Focus
 
-- 現場課題を整理し、使いやすい Web / モバイルアプリへ落とし込むこと
-- React / TypeScript を使ったブラウザ体験の実装
-- Swift / JAVAを使った モバイルアプリ開発
+- 現場課題を整理し、使いやすい Web / iOS アプリへ落とし込むこと
+- React / Vite / TypeScript を使ったブラウザ体験の実装
+- SwiftUI / PhotoKit / Vision を使った iPhone アプリ開発
 - FastAPI / Python を含むフロントエンド・バックエンド分離構成
 - README、docs、テスト、デプロイ手順まで含めた制作物の改善
 
@@ -66,8 +66,9 @@ KADOKAWAドワンゴ情報工科学院 IT総合コースで学んでいる、28�
 
 | Skill | GitHubで確認した根拠 |
 | --- | --- |
-| TypeScript / Vite | `ant-line-simulator`, `Lofi-race`, `PARry-PANIC`, `Walk-After-the-Last-Train` |
+| TypeScript / Vite | `ant-line-simulator`, `any-face-dice`, `Lofi-race`, `PARry-PANIC`, `Walk-After-the-Last-Train` |
 | React / Leaflet | `Tour-Rail` の `frontend/package.json` |
+| React / MediaPipe | `any-face-dice` の `package.json` |
 | FastAPI / Python | `Tour-Rail` の `backend/requirements.txt` |
 | Swift / SwiftUI | `Jacke-ru`, `ERAbu` の Swift 実装 |
 | PhotoKit / Vision / SwiftData | `ERAbu` の写真整理・類似判定・ローカル保存実装 |
@@ -148,6 +149,8 @@ KADOKAWAドワンゴ情報工科学院 IT総合コースで学んでいる、28�
 
 ## More Work
 
+- [any-face-dice](https://github.com/sisicity4/any-face-dice): 端末内で顔検出を行い、検出された顔からランダムに1人を選ぶブラウザゲーム
+- [Walk-After-the-Last-Train](https://github.com/sisicity4/Walk-After-the-Last-Train): 終電後の街を歩いて帰る 2.5D 横スクロール探索ゲーム
 - [Bingo-Party](https://github.com/sisicity4/Bingo-Party): Python / Streamlit で作ったパーティ向けビンゴ抽選アプリ
 - [Gotanda-Brewery](https://github.com/sisicity4/Gotanda-Brewery): Web 制作の学習・制作リポジトリ
 - [class_programings](https://github.com/sisicity4/class_programings): 授業制作物や学習用プログラムの置き場
