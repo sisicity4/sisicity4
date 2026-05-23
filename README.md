@@ -11,9 +11,6 @@
   <a href="https://lofi-race.vercel.app">
     <img src="https://img.shields.io/badge/Lofi--race-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Lofi-race live demo" />
   </a>
-  <a href="https://sisicity4.github.io/Lofi-race/">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-Lofi--race-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-  </a>
 </p>
 
 ## About Me
