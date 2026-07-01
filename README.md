@@ -8,10 +8,15 @@
   <a href="https://github.com/sisicity4">
     <img src="https://img.shields.io/badge/GitHub-sisicity4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://sisicity4.github.io/PanicBuffet/">
+    <img src="https://img.shields.io/badge/Panic%20Buffet-Play%20Demo-ff5c5c?style=for-the-badge&logo=githubpages&logoColor=white" alt="Panic Buffet live demo" />
+  </a>
   <a href="https://lofi-race.vercel.app">
     <img src="https://img.shields.io/badge/Lofi--race-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Lofi-race live demo" />
   </a>
 </p>
+
+<p align="left"><sub>Last updated: 2026-07-01 (JST)</sub></p>
 
 ## About Me
 
@@ -66,7 +71,7 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 
 | Skill | GitHubで確認した根拠 |
 | --- | --- |
-| TypeScript / Vite | `ant-line-simulator`, `any-face-dice`, `Lofi-race`, `PARry-PANIC`, `Walk-After-the-Last-Train` |
+| TypeScript / Vite | `ant-line-simulator`, `any-face-dice`, `Lofi-race`, `PanicBuffet`, `PARry-PANIC`, `Walk-After-the-Last-Train` |
 | React / Leaflet | `Tour-Rail` の `frontend/package.json` |
 | React / MediaPipe | `any-face-dice` の `package.json` |
 | FastAPI / Python | `Tour-Rail` の `backend/requirements.txt` |
@@ -75,7 +80,7 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 | Three.js | `Lofi-race` の `package.json` |
 | Phaser / Web Audio | `PARry-PANIC`, `Walk-After-the-Last-Train` |
 | Streamlit | `Bingo-Party` の `app.py` |
-| Playwright / Vitest | `Lofi-race`, `Walk-After-the-Last-Train` のテスト設定 |
+| Playwright / Vitest | `Lofi-race`, `PanicBuffet`, `Walk-After-the-Last-Train` のテスト設定 |
 
 ## Values / Work Style
 
@@ -149,11 +154,11 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 
 ## More Work
 
+- [PanicBuffet](https://github.com/sisicity4/PanicBuffet): 食べ放題ビュッフェの店長として2分間お客の波をさばく、Vite + TypeScript + Canvas 製ブラウザゲーム
 - [any-face-dice](https://github.com/sisicity4/any-face-dice): 端末内で顔検出を行い、検出された顔からランダムに1人を選ぶブラウザゲーム
 - [Walk-After-the-Last-Train](https://github.com/sisicity4/Walk-After-the-Last-Train): 終電後の街を歩いて帰る 2.5D 横スクロール探索ゲーム
 - [Bingo-Party](https://github.com/sisicity4/Bingo-Party): Python / Streamlit で作ったパーティ向けビンゴ抽選アプリ
 - [Gotanda-Brewery](https://github.com/sisicity4/Gotanda-Brewery): Web 制作の学習・制作リポジトリ
-- [class_programings](https://github.com/sisicity4/class_programings): 授業制作物や学習用プログラムの置き場
 
 ## GitHub Stats
 
