@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="left"><sub>Last updated: 2026-07-08 (JST)</sub></p>
+<p align="left"><sub>Last updated: 2026-07-10 (JST)</sub></p>
 
 ## About Me
 
@@ -155,6 +155,7 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 
 ## More Work
 
+- [OrderRoom](https://github.com/sisicity4/OrderRoom): 複数人で飲食店を利用するときの注文を1つのルームに集約する、MVP設計中のWebアプリ
 - [MD2QR](https://github.com/sisicity4/MD2QR): Markdown をライブプレビューしながら QR コード化できる、完全ローカル動作の React / TypeScript エディタ
 - [PanicBuffet](https://github.com/sisicity4/PanicBuffet): 食べ放題ビュッフェの店長として2分間お客の波をさばく、Vite + TypeScript + Canvas 製ブラウザゲーム
 - [any-face-dice](https://github.com/sisicity4/any-face-dice): 端末内で顔検出を行い、検出された顔からランダムに1人を選ぶブラウザゲーム
