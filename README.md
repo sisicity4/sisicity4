@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="left"><sub>Last updated: 2026-07-10 (JST)</sub></p>
+<p align="left"><sub>Last updated: 2026-07-13 (JST)</sub></p>
 
 ## About Me
 
@@ -71,10 +71,11 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 
 | Skill | GitHubで確認した根拠 |
 | --- | --- |
-| TypeScript / Vite | `ant-line-simulator`, `any-face-dice`, `Lofi-race`, `MD2QR`, `PanicBuffet`, `PARry-PANIC`, `Walk-After-the-Last-Train` |
+| TypeScript / Vite | `ant-line-simulator`, `any-face-dice`, `Lofi-race`, `MD2QR`, `OrderRoom`, `PanicBuffet`, `PARry-PANIC`, `Walk-After-the-Last-Train` |
 | React / Leaflet | `Tour-Rail` の `frontend/package.json` |
 | React / MediaPipe | `any-face-dice` の `package.json` |
 | React / QR code | `MD2QR` の `package.json` |
+| Spring Boot / JPA | `OrderRoom` の `pom.xml` と entity / controller 実装 |
 | FastAPI / Python | `Tour-Rail` の `backend/requirements.txt` |
 | Swift / SwiftUI | `Jacke-ru`, `ERAbu` の Swift 実装 |
 | PhotoKit / Vision / SwiftData | `ERAbu` の写真整理・類似判定・ローカル保存実装 |
@@ -155,7 +156,7 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 
 ## More Work
 
-- [OrderRoom](https://github.com/sisicity4/OrderRoom): 複数人で飲食店を利用するときの注文を1つのルームに集約する、MVP設計中のWebアプリ
+- [OrderRoom](https://github.com/sisicity4/OrderRoom): 複数人で飲食店を利用するときの注文を1つのルームに集約する、React + Spring Boot のMVP実装中Webアプリ
 - [MD2QR](https://github.com/sisicity4/MD2QR): Markdown をライブプレビューしながら QR コード化できる、完全ローカル動作の React / TypeScript エディタ
 - [PanicBuffet](https://github.com/sisicity4/PanicBuffet): 食べ放題ビュッフェの店長として2分間お客の波をさばく、Vite + TypeScript + Canvas 製ブラウザゲーム
 - [any-face-dice](https://github.com/sisicity4/any-face-dice): 端末内で顔検出を行い、検出された顔からランダムに1人を選ぶブラウザゲーム
