@@ -138,9 +138,7 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
       <p>
         <a href="https://github.com/sisicity4/Lofi-race">Repository</a>
         ·
-        <a href="https://lofi-race.vercel.app">Vercel</a>
-        ·
-        <a href="https://sisicity4.github.io/Lofi-race/">GitHub Pages</a>
+        <a href="https://lofi-race.vercel.app">Live Demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -179,12 +177,6 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 <p align="left">
   <a href="https://github.com/sisicity4">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://lofi-race.vercel.app">
-    <img src="https://img.shields.io/badge/Lofi--race-Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Lofi-race demo" />
-  </a>
-  <a href="https://sisicity4.github.io/Lofi-race/">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-Lofi--race-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Lofi-race GitHub Pages" />
   </a>
 </p>
 
