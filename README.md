@@ -162,7 +162,6 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 - [any-face-dice](https://github.com/sisicity4/any-face-dice): 端末内で顔検出を行い、検出された顔からランダムに1人を選ぶブラウザゲーム
 - [Walk-After-the-Last-Train](https://github.com/sisicity4/Walk-After-the-Last-Train): 終電後の街を歩いて帰る 2.5D 横スクロール探索ゲーム
 - [Bingo-Party](https://github.com/sisicity4/Bingo-Party): Python / Streamlit で作ったパーティ向けビンゴ抽選アプリ
-- [Gotanda-Brewery](https://github.com/sisicity4/Gotanda-Brewery): Web 制作の学習・制作リポジトリ
 
 ## GitHub Stats
 
