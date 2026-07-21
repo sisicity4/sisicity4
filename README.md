@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="left"><sub>Last updated: 2026-07-18 (JST)</sub></p>
+<p align="left"><sub>Last updated: 2026-07-22 (JST)</sub></p>
 
 ## About Me
 
@@ -75,6 +75,7 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 | React / Leaflet | `Tour-Rail` の `frontend/package.json` |
 | React / MediaPipe | `any-face-dice` の `package.json` |
 | React / QR code | `MD2QR` の `package.json` |
+| JavaScript / Chrome Extension | `ChromeWearGlasses` の `manifest.json` と拡張機能実装 |
 | Spring Boot / JPA | `OrderRoom` の `pom.xml` と entity / controller 実装 |
 | FastAPI / Python | `Tour-Rail` の `backend/requirements.txt` |
 | Swift / SwiftUI | `Jacke-ru`, `ERAbu` の Swift 実装 |
@@ -154,6 +155,7 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 
 ## More Work
 
+- [ChromeWearGlasses](https://github.com/sisicity4/ChromeWearGlasses): 近視・遠視・乱視の見え方を現在のChromeタブ上で概略体験する Manifest V3 Chrome 拡張
 - [OrderRoom](https://github.com/sisicity4/OrderRoom): 複数人で飲食店を利用するときの注文を1つのルームに集約する、React + Spring Boot のMVP実装中Webアプリ
 - [MD2QR](https://github.com/sisicity4/MD2QR): Markdown をライブプレビューしながら QR コード化できる、完全ローカル動作の React / TypeScript エディタ
 - [PanicBuffet](https://github.com/sisicity4/PanicBuffet): 食べ放題ビュッフェの店長として2分間お客の波をさばく、Vite + TypeScript + Canvas 製ブラウザゲーム
