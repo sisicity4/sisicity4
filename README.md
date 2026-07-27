@@ -166,16 +166,27 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 - [Walk-After-the-Last-Train](https://github.com/sisicity4/Walk-After-the-Last-Train): 終電後の街を歩いて帰る 2.5D 横スクロール探索ゲーム
 - [Bingo-Party](https://github.com/sisicity4/Bingo-Party): Python / Streamlit で作ったパーティ向けビンゴ抽選アプリ
 
-## GitHub Stats
+## Language Activity
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sisicity4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisicity4&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+GitHub から実際の作業時間は取得できないため、ここでは公開リポジトリの言語構成をもとに、どの言語でどのくらい制作しているかを示しています。割合は GitHub Languages API のコード量ベースです。
 
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=sisicity4&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+| Language | Share | Public repo evidence | Main usage |
+| --- | ---: | --- | --- |
+| TypeScript | 56.0% | 11 repos | React / Vite アプリ、ブラウザゲーム、Chrome拡張 |
+| Swift | 22.3% | 2 repos | SwiftUI iPhone アプリ、PhotoKit / Vision / ローカル音源管理 |
+| CSS | 8.8% | 12 repos | Web UI、ゲーム画面、レスポンシブ調整 |
+| Python | 5.4% | 3 repos | FastAPI、Django REST Framework、Streamlit |
+| JavaScript | 3.8% | 7 repos | Chrome拡張、Vite周辺、既存JS実装 |
+| Java | 2.7% | 1 repo | Spring Boot / JPA のMVP実装 |
+
+### Recent public work
+
+| Area | Repositories | Latest public update |
+| --- | --- | --- |
+| TypeScript / Web / Game | `reddit-native-en-jp`, `Lofi-race`, `MD2QR`, `PanicBuffet`, `PARry-PANIC`, `Walk-After-the-Last-Train`, `any-face-dice`, `ant-line-simulator` | 2026-07 |
+| Swift / iOS | `ERAbu`, `Jacke-ru` | 2026-07 |
+| Python / Backend | `Tour-Rail`, `team-6-fullstack-release`, `Bingo-Party` | 2026-07 |
+| Java / Spring Boot | `OrderRoom` | 2026-07 |
 
 ## Contact / Social
 
@@ -188,5 +199,5 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 ## Notes
 
 - このプロフィール README は、公開リポジトリの内容に合わせて継続的に更新します。
-- 統計カードは外部サービスを利用しているため、表示や更新に時間がかかる場合があります。
+- 言語比率は公開リポジトリのコード量ベースであり、実際の学習時間や作業時間そのものではありません。
 - 各プロジェクトの詳細、起動方法、ライセンスは各リポジトリを参照してください。
