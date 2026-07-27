@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="left"><sub>Last updated: 2026-07-22 (JST)</sub></p>
+<p align="left"><sub>Last updated: 2026-07-27 (JST)</sub></p>
 
 ## About Me
 
@@ -71,12 +71,13 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 
 | Skill | GitHubで確認した根拠 |
 | --- | --- |
-| TypeScript / Vite | `ant-line-simulator`, `any-face-dice`, `Lofi-race`, `MD2QR`, `OrderRoom`, `PanicBuffet`, `PARry-PANIC`, `Walk-After-the-Last-Train` |
+| TypeScript / Vite | `ant-line-simulator`, `any-face-dice`, `Lofi-race`, `MD2QR`, `OrderRoom`, `PanicBuffet`, `PARry-PANIC`, `team-6-fullstack-release`, `Walk-After-the-Last-Train` |
 | React / Leaflet | `Tour-Rail` の `frontend/package.json` |
 | React / MediaPipe | `any-face-dice` の `package.json` |
 | React / QR code | `MD2QR` の `package.json` |
-| JavaScript / Chrome Extension | `ChromeWearGlasses` の `manifest.json` と拡張機能実装 |
+| Chrome Extension | `ChromeWearGlasses`, `reddit-native-en-jp` の `manifest.json` と拡張機能実装 |
 | Spring Boot / JPA | `OrderRoom` の `pom.xml` と entity / controller 実装 |
+| Django REST Framework / JWT | `team-6-fullstack-release` の `requirements.txt` と API 実装 |
 | FastAPI / Python | `Tour-Rail` の `backend/requirements.txt` |
 | Swift / SwiftUI | `Jacke-ru`, `ERAbu` の Swift 実装 |
 | PhotoKit / Vision / SwiftData | `ERAbu` の写真整理・類似判定・ローカル保存実装 |
@@ -155,6 +156,8 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 
 ## More Work
 
+- [team-6-fullstack-release](https://github.com/sisicity4/team-6-fullstack-release): React UI と Django REST API を同一オリジンで配信する、運動習慣化アプリの統合リリース構成
+- [reddit-native-en-jp](https://github.com/sisicity4/reddit-native-en-jp): Reddit の英語投稿に日本語訳とスラング・ミーム文脈を足す Manifest V3 Chrome 拡張
 - [ChromeWearGlasses](https://github.com/sisicity4/ChromeWearGlasses): 近視・遠視・乱視の見え方を現在のChromeタブ上で概略体験する Manifest V3 Chrome 拡張
 - [OrderRoom](https://github.com/sisicity4/OrderRoom): 複数人で飲食店を利用するときの注文を1つのルームに集約する、React + Spring Boot のMVP実装中Webアプリ
 - [MD2QR](https://github.com/sisicity4/MD2QR): Markdown をライブプレビューしながら QR コード化できる、完全ローカル動作の React / TypeScript エディタ
