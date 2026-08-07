@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="left"><sub>Last updated: 2026-08-03 (JST)</sub></p>
+<p align="left"><sub>Last updated: 2026-08-07 (JST)</sub></p>
 
 ## About Me
 
@@ -186,7 +186,7 @@ GitHub から実際の作業時間は取得できないため、ここでは公�
 | TypeScript / Web / Game | `reddit-native-en-jp`, `Lofi-race`, `MD2QR`, `PanicBuffet`, `PARry-PANIC`, `Walk-After-the-Last-Train`, `any-face-dice`, `ant-line-simulator` | 2026-07 |
 | Swift / iOS | `ERAbu`, `Jacke-ru` | 2026-07 |
 | Python / Backend | `Tour-Rail`, `team-6-fullstack-release`, `Bingo-Party` | 2026-07 |
-| Java / Spring Boot | `OrderRoom` | 2026-07 |
+| Java / Spring Boot | `OrderRoom` | 2026-08 |
 
 ## Contact / Social
 
