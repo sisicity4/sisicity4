@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="left"><sub>Last updated: 2026-08-07 (JST)</sub></p>
+<p align="left"><sub>Last updated: 2026-08-28 (JST)</sub></p>
 
 ## About Me
 
@@ -71,12 +71,13 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 
 | Skill | GitHubで確認した根拠 |
 | --- | --- |
-| TypeScript / Vite | `ant-line-simulator`, `any-face-dice`, `Lofi-race`, `MD2QR`, `OrderRoom`, `PanicBuffet`, `PARry-PANIC`, `team-6-fullstack-release`, `Walk-After-the-Last-Train` |
+| TypeScript / Vite / Extension | `ant-line-simulator`, `any-face-dice`, `Lofi-race`, `MD2QR`, `OrderRoom`, `PanicBuffet`, `PARry-PANIC`, `reddit-native-en-jp`, `team-6-fullstack-release`, `Tour-Rail`, `Walk-After-the-Last-Train` |
 | React / Leaflet | `Tour-Rail` の `frontend/package.json` |
 | React / MediaPipe | `any-face-dice` の `package.json` |
 | React / QR code | `MD2QR` の `package.json` |
 | Chrome Extension | `ChromeWearGlasses`, `reddit-native-en-jp` の `manifest.json` と拡張機能実装 |
 | Spring Boot / JPA | `OrderRoom` の `pom.xml` と entity / controller 実装 |
+| Java CLI / Git workflow | `GitPatch` の `src/*.java` と Git hook sample |
 | Django REST Framework / JWT | `team-6-fullstack-release` の `requirements.txt` と API 実装 |
 | FastAPI / Python | `Tour-Rail` の `backend/requirements.txt` |
 | Swift / SwiftUI | `Jacke-ru`, `ERAbu` の Swift 実装 |
@@ -160,6 +161,7 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 - [reddit-native-en-jp](https://github.com/sisicity4/reddit-native-en-jp): Reddit の英語投稿に日本語訳とスラング・ミーム文脈を足す Manifest V3 Chrome 拡張
 - [ChromeWearGlasses](https://github.com/sisicity4/ChromeWearGlasses): 近視・遠視・乱視の見え方を現在のChromeタブ上で概略体験する Manifest V3 Chrome 拡張
 - [OrderRoom](https://github.com/sisicity4/OrderRoom): 複数人で飲食店を利用するときの注文を1つのルームに集約する、React + Spring Boot のMVP実装中Webアプリ
+- [GitPatch](https://github.com/sisicity4/GitPatch): Git / GitHub 初学者がCLI上でGit操作を続けやすくする、Java中心のGit学習サポートアプリ
 - [MD2QR](https://github.com/sisicity4/MD2QR): Markdown をライブプレビューしながら QR コード化できる、完全ローカル動作の React / TypeScript エディタ
 - [PanicBuffet](https://github.com/sisicity4/PanicBuffet): 食べ放題ビュッフェの店長として2分間お客の波をさばく、Vite + TypeScript + Canvas 製ブラウザゲーム
 - [any-face-dice](https://github.com/sisicity4/any-face-dice): 端末内で顔検出を行い、検出された顔からランダムに1人を選ぶブラウザゲーム
@@ -172,12 +174,13 @@ GitHub から実際の作業時間は取得できないため、ここでは公�
 
 | Language | Share | Public repo evidence | Main usage |
 | --- | ---: | --- | --- |
-| TypeScript | 56.5% | 11 repos | React / Vite アプリ、ブラウザゲーム、Chrome拡張 |
-| Swift | 22.5% | 2 repos | SwiftUI iPhone アプリ、PhotoKit / Vision / ローカル音源管理 |
-| CSS | 8.9% | 12 repos | Web UI、ゲーム画面、レスポンシブ調整 |
-| Python | 5.5% | 3 repos | FastAPI、Django REST Framework、Streamlit |
+| TypeScript | 55.6% | 11 repos | React / Vite アプリ、ブラウザゲーム、Chrome拡張 |
+| Swift | 22.2% | 2 repos | SwiftUI iPhone アプリ、PhotoKit / Vision / ローカル音源管理 |
+| CSS | 8.8% | 12 repos | Web UI、ゲーム画面、レスポンシブ調整 |
+| Python | 5.4% | 3 repos | FastAPI、Django REST Framework、Streamlit |
 | JavaScript | 3.8% | 7 repos | Chrome拡張、Vite周辺、既存JS実装 |
-| Java | 1.1% | 1 repo | Spring Boot / JPA のMVP実装 |
+| Shell | 2.0% | 3 repos | Git hook sample、補助スクリプト |
+| Java | 1.1% | 2 repos | Spring Boot / JPA、CLIアプリのMVP実装 |
 
 ### Recent public work
 
@@ -186,7 +189,7 @@ GitHub から実際の作業時間は取得できないため、ここでは公�
 | TypeScript / Web / Game | `reddit-native-en-jp`, `Lofi-race`, `MD2QR`, `PanicBuffet`, `PARry-PANIC`, `Walk-After-the-Last-Train`, `any-face-dice`, `ant-line-simulator` | 2026-07 |
 | Swift / iOS | `ERAbu`, `Jacke-ru` | 2026-07 |
 | Python / Backend | `Tour-Rail`, `team-6-fullstack-release`, `Bingo-Party` | 2026-07 |
-| Java / Spring Boot | `OrderRoom` | 2026-08 |
+| Java / Spring Boot / CLI | `OrderRoom`, `GitPatch` | 2026-08 |
 
 ## Contact / Social
 
