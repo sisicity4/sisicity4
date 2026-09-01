@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="left"><sub>Last updated: 2026-08-28 (JST)</sub></p>
+<p align="left"><sub>Last updated: 2026-09-02 (JST)</sub></p>
 
 ## About Me
 
@@ -174,13 +174,13 @@ GitHub から実際の作業時間は取得できないため、ここでは公�
 
 | Language | Share | Public repo evidence | Main usage |
 | --- | ---: | --- | --- |
-| TypeScript | 55.6% | 11 repos | React / Vite アプリ、ブラウザゲーム、Chrome拡張 |
-| Swift | 22.2% | 2 repos | SwiftUI iPhone アプリ、PhotoKit / Vision / ローカル音源管理 |
+| TypeScript | 55.4% | 11 repos | React / Vite アプリ、ブラウザゲーム、Chrome拡張 |
+| Swift | 22.1% | 2 repos | SwiftUI iPhone アプリ、PhotoKit / Vision / ローカル音源管理 |
 | CSS | 8.8% | 12 repos | Web UI、ゲーム画面、レスポンシブ調整 |
 | Python | 5.4% | 3 repos | FastAPI、Django REST Framework、Streamlit |
-| JavaScript | 3.8% | 7 repos | Chrome拡張、Vite周辺、既存JS実装 |
+| JavaScript | 3.7% | 7 repos | Chrome拡張、Vite周辺、既存JS実装 |
 | Shell | 2.0% | 3 repos | Git hook sample、補助スクリプト |
-| Java | 1.1% | 2 repos | Spring Boot / JPA、CLIアプリのMVP実装 |
+| Java | 1.5% | 2 repos | Spring Boot / JPA、CLIアプリのMVP実装 |
 
 ### Recent public work
 
