@@ -16,17 +16,17 @@
   </a>
 </p>
 
-<p align="left"><sub>Last updated: 2026-09-02 (JST)</sub></p>
+<p align="left"><sub>Last updated: 2026-09-12 (JST)</sub></p>
 
 ## About Me
 
 KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んでいる、28卒のエンジニア志望です。<br>
-東京都,神奈川を拠点に、**Web アプリ**、**iOS アプリ**、**ブラウザゲーム**を中心に制作しています。
+**Web アプリ**、**iOS アプリ**、**ブラウザゲーム**を中心に制作しています。
 
 コンビニエンスストアで約6年間働いた経験から、現場の流れ、段取り、顧客対応、業務効率に関心があります。TypeScript / Swift / Python を使いながら、ただ動くものではなく、使う人や現場の課題に合う仕組みとして作ることを意識しています。
 
 - Web: React / Vite / TypeScript を中心に、地図・ゲーム・インタラクションを扱うアプリを制作
-- iOS: SwiftUI / PhotoKit / Vision などを使ったローカル処理中心のアプリを開発
+- iOS: SwiftUI を使ったローカル音源管理アプリを開発
 - Backend: FastAPI / Python を使った API 実装と外部サービス連携を経験
 - Work style: 目的、ユーザー、判断理由、役割分担を言語化しながら制作することを重視
 
@@ -34,7 +34,7 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 
 - 現場課題を整理し、使いやすい Web / iOS アプリへ落とし込むこと
 - React / Vite / TypeScript を使ったブラウザ体験の実装
-- SwiftUI / PhotoKit / Vision を使った iPhone アプリ開発
+- SwiftUI を使った iPhone アプリ開発
 - FastAPI / Python を含むフロントエンド・バックエンド分離構成
 - README、docs、テスト、デプロイ手順まで含めた制作物の改善
 
@@ -80,8 +80,7 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
 | Java CLI / Git workflow | `GitPatch` の `src/*.java` と Git hook sample |
 | Django REST Framework / JWT | `team-6-fullstack-release` の `requirements.txt` と API 実装 |
 | FastAPI / Python | `Tour-Rail` の `backend/requirements.txt` |
-| Swift / SwiftUI | `Jacke-ru`, `ERAbu` の Swift 実装 |
-| PhotoKit / Vision / SwiftData | `ERAbu` の写真整理・類似判定・ローカル保存実装 |
+| Swift / SwiftUI | `Jacke-ru` の Swift 実装 |
 | Three.js | `Lofi-race` の `package.json` |
 | Phaser / Web Audio | `PARry-PANIC`, `Walk-After-the-Last-Train` |
 | Streamlit | `Bingo-Party` の `app.py` |
@@ -125,11 +124,13 @@ KADOKAWAドワンゴ情報工科学院 東京校 IT総合コースで学んで�
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>ERAbu</h3>
-      <p>写真をスワイプで高速に仕分け、似ている写真を比較しながら判断できる iPhone 向け写真整理アプリです。</p>
-      <p><strong>Tech:</strong> SwiftUI / PhotoKit / Vision / SwiftData / Swift Concurrency</p>
+      <h3>any-face-dice</h3>
+      <p>端末内で顔を検出し、検出された顔からランダムに1人を選ぶブラウザゲームです。</p>
+      <p><strong>Tech:</strong> React / TypeScript / Vite / MediaPipe Tasks Vision</p>
       <p>
-        <a href="https://github.com/sisicity4/ERAbu">Repository</a>
+        <a href="https://github.com/sisicity4/any-face-dice">Repository</a>
+        ·
+        <a href="https://any-face-dice.vercel.app/😃🎲/">Live Demo</a>
       </p>
     </td>
   </tr>
@@ -174,22 +175,25 @@ GitHub から実際の作業時間は取得できないため、ここでは公�
 
 | Language | Share | Public repo evidence | Main usage |
 | --- | ---: | --- | --- |
-| TypeScript | 55.4% | 11 repos | React / Vite アプリ、ブラウザゲーム、Chrome拡張 |
-| Swift | 22.1% | 2 repos | SwiftUI iPhone アプリ、PhotoKit / Vision / ローカル音源管理 |
-| CSS | 8.8% | 12 repos | Web UI、ゲーム画面、レスポンシブ調整 |
-| Python | 5.4% | 3 repos | FastAPI、Django REST Framework、Streamlit |
-| JavaScript | 3.7% | 7 repos | Chrome拡張、Vite周辺、既存JS実装 |
-| Shell | 2.0% | 3 repos | Git hook sample、補助スクリプト |
-| Java | 1.5% | 2 repos | Spring Boot / JPA、CLIアプリのMVP実装 |
+| Swift | 61.7% | 1 repo | SwiftUI iPhone アプリ、ローカル音源管理 |
+| TypeScript | 14.1% | 11 repos | React / Vite アプリ、ブラウザゲーム、Chrome拡張 |
+| Python | 12.3% | 3 repos | FastAPI、Django REST Framework、Streamlit |
+| Java | 5.8% | 2 repos | Spring Boot / JPA、CLIアプリのMVP実装 |
+| CSS | 3.8% | 12 repos | Web UI、ゲーム画面、レスポンシブ調整 |
+| Perl | 1.5% | 1 repo | `GitPatch` の補助ファイル |
+| JavaScript | 0.4% | 7 repos | Chrome拡張、Vite周辺、既存JS実装 |
+| Dockerfile | 0.3% | 1 repo | フルスタックアプリのコンテナ構成 |
+| HTML | 0.1% | 12 repos | Web UI、ゲーム画面のマークアップ |
+| Shell | 0.1% | 3 repos | Git hook sample、補助スクリプト |
 
 ### Recent public work
 
 | Area | Repositories | Latest public update |
 | --- | --- | --- |
 | TypeScript / Web / Game | `reddit-native-en-jp`, `Lofi-race`, `MD2QR`, `PanicBuffet`, `PARry-PANIC`, `Walk-After-the-Last-Train`, `any-face-dice`, `ant-line-simulator` | 2026-07 |
-| Swift / iOS | `ERAbu`, `Jacke-ru` | 2026-07 |
+| Swift / iOS | `Jacke-ru` | 2026-07 |
 | Python / Backend | `Tour-Rail`, `team-6-fullstack-release`, `Bingo-Party` | 2026-07 |
-| Java / Spring Boot / CLI | `OrderRoom`, `GitPatch` | 2026-08 |
+| Java / Spring Boot / CLI | `OrderRoom`, `GitPatch` | 2026-09 |
 
 ## Contact / Social
 
