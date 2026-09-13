@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="left"><sub>Last updated: 2026-09-12 (JST)</sub></p>
+<p align="left"><sub>Last updated: 2026-09-14 (JST)</sub></p>
 
 ## About Me
 
@@ -175,16 +175,16 @@ GitHub から実際の作業時間は取得できないため、ここでは公�
 
 | Language | Share | Public repo evidence | Main usage |
 | --- | ---: | --- | --- |
-| Swift | 61.7% | 1 repo | SwiftUI iPhone アプリ、ローカル音源管理 |
-| TypeScript | 14.1% | 11 repos | React / Vite アプリ、ブラウザゲーム、Chrome拡張 |
-| Python | 12.3% | 3 repos | FastAPI、Django REST Framework、Streamlit |
-| Java | 5.8% | 2 repos | Spring Boot / JPA、CLIアプリのMVP実装 |
-| CSS | 3.8% | 12 repos | Web UI、ゲーム画面、レスポンシブ調整 |
-| Perl | 1.5% | 1 repo | `GitPatch` の補助ファイル |
-| JavaScript | 0.4% | 7 repos | Chrome拡張、Vite周辺、既存JS実装 |
-| Dockerfile | 0.3% | 1 repo | フルスタックアプリのコンテナ構成 |
-| HTML | 0.1% | 12 repos | Web UI、ゲーム画面のマークアップ |
-| Shell | 0.1% | 3 repos | Git hook sample、補助スクリプト |
+| TypeScript | 60.1% | 11 repos | React / Vite アプリ、ブラウザゲーム、Chrome拡張 |
+| Swift | 12.1% | 1 repo | SwiftUI iPhone アプリ、ローカル音源管理 |
+| CSS | 9.5% | 12 repos | Web UI、ゲーム画面、レスポンシブ調整 |
+| Python | 5.8% | 3 repos | FastAPI、Django REST Framework、Streamlit |
+| Java | 5.0% | 2 repos | Spring Boot / JPA、CLIアプリのMVP実装 |
+| JavaScript | 4.1% | 7 repos | Chrome拡張、Vite周辺、既存JS実装 |
+| Shell | 2.2% | 3 repos | Git hook sample、補助スクリプト |
+| HTML | 0.9% | 12 repos | Web UI、ゲーム画面のマークアップ |
+| Perl | 0.3% | 1 repo | `GitPatch` の補助ファイル |
+| Dockerfile | 0.1% | 1 repo | フルスタックアプリのコンテナ構成 |
 
 ### Recent public work
 
